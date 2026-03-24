@@ -53,7 +53,7 @@ Instead of just plotting graphs, the project answers:
 
 ## 📊 Key Insights
 
-✔️ A small number of categories contribute to a large portion of total revenue
+✔️ Top 3 categories contribute to ~65% of total revenue
 ✔️ Pricing has a **direct and measurable impact** on demand
 ✔️ Products with better ratings tend to perform consistently better
 ✔️ Some categories show **high demand but low competition → growth opportunity**
